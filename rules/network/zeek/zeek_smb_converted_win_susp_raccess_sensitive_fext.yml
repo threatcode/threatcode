@@ -4,7 +4,7 @@ description: Detects known sensitive file extensions via Zeek
 author: 'Samir Bousseaden, @neu5ron'
 date: 2020/04/02
 references: 
-  - https://github.com/neo23x0/threatcode/blob/d42e87edd741dd646db946f30964f331f92f50e6/rules/windows/builtin/win_susp_raccess_sensitive_fext.yml
+  - https://github.com/threatcode/threatcode/blob/d42e87edd741dd646db946f30964f331f92f50e6/rules/windows/builtin/win_susp_raccess_sensitive_fext.yml
 tags:
   - attack.collection
 logsource:
